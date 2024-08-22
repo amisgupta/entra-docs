@@ -15,7 +15,7 @@ ms.reviewer: ravenn
 
 # What is a Primary Refresh Token?
 
-A Primary Refresh Token (PRT) is a key artifact of Microsoft Entra authentication on Windows 10 or newer, Windows Server 2016 and later versions, iOS, and Android devices. It's a JSON Web Token (JWT) specially issued to Microsoft first party token brokers to enable single sign-on (SSO) across the applications used on those devices. In this article, provide details on how a PRT is issued, used, and protected on Windows 10 or newer devices. We recommend using the latest versions of Windows 10, Windows 11 and Windows Server 2019+ to get the best SSO experience.
+A Primary Refresh Token (PRT) is a key artifact of Microsoft Entra authentication on Windows 10 or newer, Windows Server 2016 and later versions, iOS, and Android devices. It's a JSON Web Token (JWT) specially issued to Microsoft first party token brokers to enable single sign-on (SSO) across the applications used on those devices. In this article, we provide details on how a PRT is issued, used, and protected on Windows 10 or newer devices. We recommend using the latest versions of Windows 10, Windows 11 and Windows Server 2019+ to get the best SSO experience.
 
 This article assumes that you already understand the different device states available in Microsoft Entra ID and how single sign-on works in Windows 10 or newer. For more information about devices in Microsoft Entra ID, see the article [What is device management in Microsoft Entra ID?](overview.md)
 
